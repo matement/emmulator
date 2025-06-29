@@ -32,6 +32,7 @@ typedef enum{
 }OPCODE;
 
 
+
 typedef struct{
     uint16_t zero;
     //general purpose registers
